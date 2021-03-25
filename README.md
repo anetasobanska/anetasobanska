@@ -28,9 +28,8 @@
 <p align="center">
 <img src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=anetasobanska&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
-
 <p align="center">
-<img alt="anetasobanska's github stats" src="https://github-readme-stats.vercel.app/api?username=anetasobanska&show_icons=true&hide_border=true" />
+<img alt="anetasobanska's github stats" src="https://github-readme-stats.vercel.app/api?username=anetasobanska&show_icons=true" />
 </p>
 
 <br>
@@ -39,6 +38,7 @@
 <h3 align="center">  🔗 Connect with me </h3>
 
 <br>
+
 <p align="center">
 <samp>
 <a target="_blank" href="https://www.linkedin.com/in/aneta-sobanska-7b7913185/">
