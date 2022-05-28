@@ -1,12 +1,12 @@
 <h2 align="center"> 👋 Hi, I am Aneta Sobanska </h2>
 
-<h2 align="center"> A Front End Developer based in Montpellier </h2>
+<h2 align="center"> A Back End Developer based in Montpellier </h2>
 <br>
 <p align="center"> 
 <samp>
 🔥 I improve my JavaScript Coding Skill every day. <br>
-👉 Right now, I’m learning React.js.<br>
-🌼 I'm looking for a job as a Junior Front End Developer.<br>
+👉 Right now, I’m learning Nest.js.<br>
+🌼 I'm looking for a job as a Junior Back End Developer.<br>
 </p> 
 </samp>
 <br>
@@ -21,12 +21,16 @@
 <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img alt="mySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </samp>
 </p>
 <p align="center">
-<img src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=anetasobanska&layout=compact&bg_color=ffffff&text_color=333333">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anetasobanska&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
 <p align="center">
 <img alt="anetasobanska's github stats" src="https://github-readme-stats.vercel.app/api?username=anetasobanska&show_icons=true" />
