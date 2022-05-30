@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anetasobanska&langs_count=10&layout=compact&bg_color=ffffff&text_color=333333">
 </p>
 <p align="center">
-<img alt="anetasobanska's github stats" src="https://github-readme-stats.vercel.app/api?username=anetasobanska&show_icons=true" />
+<img alt="anetasobanska's github stats" src="https://github-readme-stats.vercel.app/api?username=anetasobanska&show_icons=true&count_private=true" />
 </p>
 
 <br>
