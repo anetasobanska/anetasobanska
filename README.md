@@ -1,6 +1,10 @@
 <img src="./assets/Aneta-SOBANSKA.png" alt="banner">
 
-👉 I have recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.
+👉 An aspirational web developer who had spent 2 years passionately learning programming.
+
+👉 Recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.
+
+👉 Enjoys JavaScript.
 
 👉 Digital film restoration artist background.
 
